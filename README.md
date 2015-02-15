@@ -1,2 +1,2 @@
 # easyscan
-Golang easy API for sql.DB.Scan
+Golang easy API for sql.Rows.Scan
